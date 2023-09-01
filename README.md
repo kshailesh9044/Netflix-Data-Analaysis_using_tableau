@@ -28,6 +28,18 @@ This Tableau dashboard provides an in-depth analysis of Netflix movie and TV sho
 
 - **Geographical Analysis**: Discover regional variations in content availability and popularity.
 
+
+
+## Project Structure
+- `/pdf`: PDF of Tableau dashboard showcasing insights.
+
+
+## Contact
+For any questions or inquiries, please contact Shailesh Kadam at kadamshailesh9044@gmail.com.
+
+## Credits
+- The Netflix dataset is provided by Netflix.
+
  
 
 
